@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "H4937HG95Y.com.herokuapp.iosdeeplinks.DeepLinks",
+				"appID": "H4937HG95Y.com.herokuapp.iosuniversaldeeplinks",
 				"paths": [ "*"]
 			}
 		]
